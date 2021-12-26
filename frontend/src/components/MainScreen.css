@@ -1,0 +1,14 @@
+.mainback{
+    min-height: 100vh;
+    display: flex;
+    padding: 20px 0;
+}
+
+@media only screen and (max-width:600px) {
+    .heading{
+        font-size: 30px;
+        display: flex;
+        justify-content: center;
+    }
+    
+}
